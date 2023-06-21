@@ -2,7 +2,7 @@
 
 
 /**
- * _isaplha - checks for alphabetic character
+ * _isaplha - Checks for alphabetic character
  * @c: the specific character thats checked
  * Return: 1 fot alphabet, 0 for anything else
  */
