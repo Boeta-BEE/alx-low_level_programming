@@ -32,7 +32,7 @@ void times_table(void)
 	{
 	_putchar(44);
 	_putchar(32);
-	-putchar(32);
+	_putchar(32);
 	}
 	_putchar(z + '0');
 	}
