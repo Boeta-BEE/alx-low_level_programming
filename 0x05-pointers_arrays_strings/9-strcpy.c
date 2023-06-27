@@ -2,7 +2,7 @@
 
 
 /**
- * _scrpty - Copy a string
+ * _strcpy - Copy a string
  * @dest: Destination value
  * @src: Source value
  * Return: pointer to the dest
@@ -18,5 +18,5 @@ char *_strcpy(char *dest, char *src)
 	}
 	dest[i++] = '\0';
 
-	return(dest);
+	return (dest);
 }
